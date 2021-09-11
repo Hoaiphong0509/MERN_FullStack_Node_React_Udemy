@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Hoaiphong:Hoaiphong59000@cluster0.eltkh.mongodb.net/test",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "00f93f145a5afdbff90c",
+    "githubSecret": "34e44d19c00e9f75f476df03a756c8cd2f84d165"
+}
